@@ -67,3 +67,55 @@ The goal of the company is to deliver a high-end quality product as early as pos
 * Core concepts used in the project 
 * Links to the GitHub repository to verify the project completion 
  
+  ## Using the application
+  
+  Welcome screen displays the application name, Travel Details Options, and Admin Login Option.
+
+    
+    1. The first Page is the Travel Details Menu :
+                  1. Select the Departure
+                  2. Select the Destination
+                  3. Select the Date of Travel
+                  4. Enter the Number of Persons                
+                  
+    2. After Clicking the search flight button, it will take the user to the "Available flights" Menu. In there the user can find the available flights with the details. If there is no flights available, the Menu will be blank.
+
+    3. After clicking the "Book Now" option, it will take the user to the Login option, where the user can login with the username and password. If the user is new to the Portal, they can use "Register here" option.
+    
+    4. After Logging in, user need to Enter the Payment details to book the ticket.
+    
+    5. After making payment, user can download or Print the ticket. 
+
+## ADMIN LOGIN 
+
+    1. Admin can login using their given username and password.
+    
+    2. After logging in, admin can have the below opions
+                   
+                   * Change Password
+                   * Add Airline Details
+                   * List of Places
+                   * List of Airlines
+                   * List of Flights
+                   * Logout
+                   
+## OUTPUT IMAGES : 
+![Login Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/LoginPage.png) 
+
+![signup Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/SignUPPage.png) 
+
+![SignIN Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/SignInPage.png)
+
+![Locker Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/LockerPage.png ) 
+
+## Technologies
+
+Technologies used in project:
+
+- Java 17.0.2
+- Servlet
+- JDBC
+- MySQL
+- HTML,CSS
+- JSP
+- Eclipse IDE

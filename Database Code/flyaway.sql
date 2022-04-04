@@ -4,7 +4,7 @@ create table Admindetails(
 email_id varchar(20),
 password varchar(20));
 
-insert into Admindetails(email_id, password) values("hemac140@gmail.com","1234");
+insert into Admindetails(email_id, password) values("admin@gmail.com","admin@123");
 
 create table flightdetails(origin varchar(20),destination varchar(20),fare double,departure_time varchar(10),arrival_time varchar(10),airline_name varchar(20),flightno varchar(10));
 insert into flightdetails(origin,destination,fare,departure_time,arrival_time,airline_name,flightno) values("Chennai","Delhi",23000,"09:20","12:30","spiceJet","91212");
@@ -37,7 +37,4 @@ select * from flightdetails;
 
 create table userdetails(Email varchar(20),FirstName varchar(20),LastName varchar(20),Age int,Mobile varchar(10),gender varchar(6),Password varchar(20),country varchar(20));
 
-select * from userdetails;
-
-select * from flightdetails;
 

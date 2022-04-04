@@ -1,3 +1,4 @@
+create databse flyaway;
 use flyaway;
 
 create table Admindetails(

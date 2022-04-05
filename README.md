@@ -124,7 +124,7 @@ For database - use flyaway.sql in database folder
 
 Technologies used in project:
 
-Frontend - JSP, HTML, CSS
-Backend - JAVA Servlets
-Database - MySQL -
-Application Server - Tomcat 9.0 
+* Frontend - JSP, HTML, CSS
+* Backend - JAVA Servlets
+* Database - MySQL 
+* Application Server - Tomcat 9.0 

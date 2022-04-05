@@ -115,14 +115,16 @@ The goal of the company is to deliver a high-end quality product as early as pos
 
 ![Add Airline Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/AddAirline-admin.png) 
 
+## Setup
+To run in your localhost - Clone into local and run project on tomcat server. If any issue check artifact is build properly.
+
+For database - use flyaway.sql in database folder
+
 ## Technologies
 
 Technologies used in project:
 
-- Java 17.0.2
-- Servlet
-- JDBC
-- MySQL
-- HTML,CSS
-- JSP
-- Eclipse IDE
+Frontend - JSP, HTML, CSS
+Backend - JAVA Servlets
+Database - MySQL -
+Application Server - Tomcat 9.0 

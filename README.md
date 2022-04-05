@@ -99,13 +99,21 @@ The goal of the company is to deliver a high-end quality product as early as pos
                    * Logout
                    
 ## OUTPUT IMAGES : 
-![Login Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/HomePage.png) 
+![Home Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/HomePage.png) 
 
-![signup Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/SignUPPage.png) 
+![Aval-flights Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/AvailableFlights.png) 
 
-![SignIN Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/SignInPage.png)
+![SignIN Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/LoginPage.png)
 
-![Locker Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/LockerPage.png ) 
+![Registration Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/RegistrationPage.png) 
+
+![Payment Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/PaymentPage.png )
+
+![Booking confirmation Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/BookingConfirmation.png) 
+
+![Admin Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/Adminpage.png) 
+
+![Add Airline Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/AddAirline-admin.png) 
 
 ## Technologies
 

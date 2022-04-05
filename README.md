@@ -99,7 +99,7 @@ The goal of the company is to deliver a high-end quality product as early as pos
                    * Logout
                    
 ## OUTPUT IMAGES : 
-![Login Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/LoginPage.png) 
+![Login Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/HomePage.png) 
 
 ![signup Page](https://github.com/Hemachandirant/check/blob/main/Output%20Images/SignUPPage.png) 
 

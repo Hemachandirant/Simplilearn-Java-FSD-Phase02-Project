@@ -1,6 +1,5 @@
 # FLYAWAY
 
-# DESCRIPTION
 
 # Project objective: 
 

@@ -116,6 +116,7 @@ The goal of the company is to deliver a high-end quality product as early as pos
 ![Add Airline Page](https://github.com/Hemachandirant/Simplilearn-Java-FSD-Phase02-Project/blob/master/Output%20Images/AddAirline-admin.png) 
 
 ## Setup
+
 To run in your localhost - Clone into local and run project on tomcat server. If any issue check artifact is build properly.
 
 For database - use flyaway.sql in database folder

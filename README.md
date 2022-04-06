@@ -117,7 +117,7 @@ The goal of the company is to deliver a high-end quality product as early as pos
 
 ## Setup
 
-To run in your localhost - Clone into local and run project on tomcat server. If any issue check artifact is build properly.
+To run in your localhost - Clone the Project => Go to eclipse IDE => Chose import as Maven Project => Import the FlyAway Project => Go to MySQL => Run the fly.sql code in a new query tab => Click the project => chose Run on Server => Chose Tomcat 9.0.
 
 For database - use flyaway.sql in database folder
 
